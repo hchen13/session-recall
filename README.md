@@ -1,3 +1,5 @@
+[中文](./README_CN.md)
+
 # session-recall
 
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
